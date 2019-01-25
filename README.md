@@ -89,6 +89,6 @@ The contents of this respository are as follows:
 
 You will need an IDE for running the c++ programs in your system.
 
-## Verifying C++ programs
+### Verifying C++ programs
 
 The document files with output have been attached with each folder so that you can verify the code with those sample test cases.
